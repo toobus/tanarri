@@ -1,6 +1,9 @@
 # Dominions 6 modding manual (reference only — not part of the mod)
 /dom6modman.txt
 
+# Local Claude Code settings
+/.claude/
+
 # Symlinks/junctions to install location (if created locally)
 /install-link
 
