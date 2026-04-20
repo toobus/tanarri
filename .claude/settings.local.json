@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/Mike/Documents/Claude/Projects//**)",
+      "Read(//c/Users/Mike/.claude//**)",
+      "WebFetch(domain:steamcommunity.com)",
+      "WebSearch",
+      "WebFetch(domain:www.illwinter.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:steamworkshopdownloader.io)",
+      "Bash(pdftotext -layout \"/c/Users/Mike/.claude/projects/C--Users-Mike-Documents-Claude-Projects-tanarri/38655cca-66d0-4110-9f7d-077df618ab95/tool-results/webfetch-1776709884582-drphws.pdf\" \"/c/Users/Mike/Documents/Claude/Projects/tanarri/dom6modman.txt\")",
+      "Read(//c/Program Files \\(x86\\)/Steam/steamapps/workshop/content/2511500/**)",
+      "Read(//c/Program Files \\(x86\\)/Steam/steamapps/workshop/content/**)",
+      "Read(//c//**)",
+      "Read(//d//**)",
+      "Bash(cp \"/d/SteamLibrary/steamapps/workshop/content/2511500/3321778572/PS Bloodwar Tanar'ri.dm\" \"/c/Users/Mike/Documents/Claude/Projects/tanarri/mod-source.dm\")",
+      "Bash(gh auth *)",
+      "Bash(rm -f mod-source.dm)",
+      "Bash(mkdir -p \"PS Bloodwar Tanar'ri\")",
+      "Bash(cp -r \"/d/SteamLibrary/steamapps/workshop/content/2511500/3321778572/.\" \"PS Bloodwar Tanar'ri/\")",
+      "Bash(rm -f \"PS Bloodwar Tanar'ri/dom6ws.tmp\" \"PS Bloodwar Tanar'ri/dom6ws_pfid\")",
+      "Read(//c/c/Users/Mike/Documents/Claude/Projects/tanarri/**)"
+    ]
+  }
+}

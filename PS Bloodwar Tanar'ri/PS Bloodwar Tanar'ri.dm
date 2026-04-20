@@ -1,6 +1,8 @@
-#modname "D&D's Planescape: The Blood War - Tanar'ri" 
+#modname "D&D's Planescape: The Blood War - Tanar'ri"
 #description "The Ravening Hordes of the Abyss, by Joonai/DasaKamov"
 #icon "./BloodWarTanar'ri/Banner.tga"
+#version 1.10
+#domversion 6.00
 
 
 --Tanar'ri WEAPONS #1026-1093
