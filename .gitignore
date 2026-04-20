@@ -1,0 +1,12 @@
+# Dominions 6 modding manual (reference only — not part of the mod)
+/dom6modman.txt
+
+# Symlinks/junctions to install location (if created locally)
+/install-link
+
+# Editor / OS noise
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
