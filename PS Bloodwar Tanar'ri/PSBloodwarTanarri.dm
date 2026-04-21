@@ -396,7 +396,7 @@
 #magic
 #end
 
-#selectweapon 27 --Gives Hurled Boulders an AoE 1 
+#selectweapon 27 --Gives Hurled Boulders an AoE 1
 #aoe 1
 #end
 
@@ -581,7 +581,7 @@
 #copyweapon 323
 #name "Vargouille's Kiss"
 #dt_raise
-#sample 50
+#sound 50
 #end 
 
 #newweapon 1085 -- Vampiric Ixitxachitl Weapon
@@ -3673,7 +3673,7 @@ A Raum's hatred for all non-Tanar'ri is so palpable it manifests as a searing au
 #wastesurvival
 #female
 #mountedhumanoid
-#end 
+#end
 
 #selectmonster 609
 #clearweapons
@@ -3706,9 +3706,9 @@ A Raum's hatred for all non-Tanar'ri is so palpable it manifests as a searing au
 #magicskill 5 1
 #custommagic 28800 100
 #custommagic 28800 100
-#end 
+#end
 
-#selectmonster 610 
+#selectmonster 610
 #clearweapons
 #clear
 #name "Lamia Matriarch"
@@ -3741,7 +3741,7 @@ A Raum's hatred for all non-Tanar'ri is so palpable it manifests as a searing au
 #magicboost 4 -2
 #magicboost 5 -1
 #researchbonus -11
-#end 
+#end
 
 
 #newmonster 
@@ -4569,6 +4569,7 @@ The legends are unclear as to what exactly transpired within the hag-ogress' hut
 --Tanar'ri SITES  #1632-1660
 #newsite 1576
 #name "Spiralling Temple"
+#look -1
 #path 8
 #level 0
 #rarity 5
@@ -4580,10 +4581,11 @@ The legends are unclear as to what exactly transpired within the hag-ogress' hut
 
 #newsite 1577
 #name "Doomguard Forges"
+#look -1
 #path 0
 #level 0
 #rarity 5
-#loc 16384 
+#loc 16384
 #homecom "Doomguard Warsmith"
 #homecom "Doomguard Ashwalker"
 #end
@@ -6158,7 +6160,7 @@ Darkvision will find it difficult to fight in such conditions; fortunately, the 
 #end
 
 #selectitem 164 -- Immaculate Shield
-#nodemon 
+#nodemon
 #noundead
 #end
 
